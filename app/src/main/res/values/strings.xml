@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KanElectricServiceApp</string>
+    <string name="registration">Registration</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>
